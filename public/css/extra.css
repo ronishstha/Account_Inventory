@@ -1,0 +1,13 @@
+.noti-badge {
+    position: absolute;
+    top:-5px;
+    right: 5px;
+    padding: 4px 7px;
+    border: none;
+    border-radius:110px;
+    background: #f44336;
+    -webkit-background-clip: padding-box;
+    font: bold 7px/9px "Helvetica Neue", sans-serif;
+    color: white;
+    text-decoration: none;
+}​
